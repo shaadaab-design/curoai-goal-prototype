@@ -1,18 +1,12 @@
  CuroAI Goal Submission Prototype
 A smooth and at the same time  responsive web application prototype for goal submission and deadline setting, built as part for the  1Direction Global frontend internship technical interview by me shaadaab ilyas 
 Project simple overlook:
-
-This prototype allows users to easily be able to 
-
-Enter detailed goal descriptions
-
-Set target deadlines
-
-Submit goals to the CuroAI backend API
-
-Receive confirmation of successful submission
-
-The application i feel perfectly serves as the frontend interface for CuroAI's AI-powered goal planning system
+-This prototype allows users to easily be able to 
+-Enter detailed goal descriptions
+-Set target deadlines
+-Submit goals to the CuroAI backend API
+-Receive confirmation of successful submission
+-The application i feel perfectly serves as the frontend interface for CuroAI's AI-powered goal planning system
 
 
 this application can be used for front ends front interface its really a very low version of what all that can be added to make it really more  user friendly 
@@ -23,7 +17,7 @@ Clean white card layout provides focus and readability
 Responsive design ensures functionality across all device sizes
 Smooth hover animations enhance user experience
 
-User Experienceiis better by 
+User Experience is better by 
 Form validation prevents empty submissions
 Loading states provide feedback during API calls
 Success/error messages keep users informed
