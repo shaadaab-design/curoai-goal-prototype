@@ -35,7 +35,7 @@ Single-page application for simplicity and fast loading
 Async/await for clean API handling
 Error handling for network failures
 JSON data structure matching API requirements
-View Live Prototype (Replace with your actual GitHub Pages URL)
+View Live Prototype (https://shaadaab-design.github.io/curoai-goal-prototype/)
 
 hows the api intergreated?
 The prototype sends POST requests to: https://curoai.free.beeceptor.com/goals
